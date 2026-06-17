@@ -20,3 +20,6 @@ Architecture: MVC structure with modular controllers and middlewares
 👥 Role-based access for users/admins
 
 🛡️ Secure API endpoints and clean code structure
+
+Support
+For support or queries, please contact: baburohit1392@gmail.com
