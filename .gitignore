@@ -1,0 +1,9 @@
+node_modules/
+backend/node_modules/
+.env
+backend/.env
+backend/uploads/*.jpg
+backend/uploads/*.jpeg
+backend/uploads/*.png
+backend/uploads/*.gif
+backend/uploads/*.pdf
