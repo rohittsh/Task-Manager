@@ -14,7 +14,7 @@ import ViewTaskDetails from "./pages/User/ViewTaskDetails";
 import PrivateRoute from "./routes/PrivateRoute";
 import UserProvider, { UserContext } from "./context/userContext";
 import { Toaster } from "react-hot-toast";
-import LandingPage from "./LandingPage/Landingpage";
+import LandingPage from "./LandingPage/LandingPage";
 
 const App = () => {
   return (
