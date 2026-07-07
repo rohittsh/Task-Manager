@@ -1,5 +1,0 @@
-{
-  "buildCommand": "cd frontend/Task-Manager && npm install && npm run build",
-  "outputDirectory": "frontend/Task-Manager/dist",
-  "installCommand": "echo skip"
-}
